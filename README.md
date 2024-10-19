@@ -1,6 +1,6 @@
 ## 🍀 Olá! Boas-vindas ao meu GitHub! :)
 
-  Meu nome é Beatriz, tenho 30 anos e estou migrando para a área da tecnologia, venho diretamente do universo das ciências humanas. Sou graduada e mestra em psicologia pela UNESP, e atualmente bolsista do curso de Engenharia de Dados da Ada, pelo programa Santander Coders. Autodidata, sou bastante comprometida, curiosa, me interesso pelas áreas de engenharia de dados e back-end.
+Meu nome é Beatriz, tenho 30 anos e estou migrando para a área da tecnologia, venho diretamente do universo das ciências humanas. Sou graduada e mestra em psicologia pela UNESP, atualmente cursando Análise e Desenvolvimento de Sistemas na Anhembi Morumbi e bolsista do curso de Engenharia de Dados da Ada, pelo programa Santander Coders. Autodidata, comecei a estudar sozinha; sou bastante comprometida, curiosa, me interesso pelas áreas de engenharia de dados e back-end.
 
 ## ⚙ Habilidades (desenvolvidas e em desenvolvimento):
 
