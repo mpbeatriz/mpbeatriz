@@ -1,5 +1,12 @@
 ## 🍀 Olá! Boas-vindas ao meu GitHub! :)
 
+
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/168fe267-2f11-4d4c-9d2f-e5240923485a" width="300px" />
+</div>
+
+
 Meu nome é Beatriz, tenho 30 anos e estou migrando para a área da tecnologia, venho diretamente do universo das ciências humanas. Sou graduada e mestra em psicologia pela UNESP, atualmente cursando Análise e Desenvolvimento de Sistemas na Anhembi Morumbi e bolsista do curso de Engenharia de Dados da Ada, pelo programa Santander Coders. Autodidata, comecei a estudar sozinha; sou bastante comprometida, curiosa, me interesso pelas áreas de engenharia de dados e back-end.
 
 ## ⚙ Habilidades (desenvolvidas e em desenvolvimento):
