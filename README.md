@@ -7,7 +7,7 @@
 </div>
 
 
-Meu nome é Beatriz, tenho 30 anos, sou graduada e mestra em psicologia pela UNESP e atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi. Fui uma das 300 dentre mais de 80 mil pessoas a ser selecionada para uma bolsa no programa Santander Coders 2024, na trilha de Engenharia de Dados. Autodidata, comecei a estudar programação sozinha; sou bastante comprometida, curiosa, me interesso pelas áreas de dados e desenvolvimento. 
+Meu nome é Beatriz, tenho 31 anos, sou graduada e mestra em psicologia pela UNESP e atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi. Fui uma das 300 dentre mais de 80 mil pessoas a ser selecionada para uma bolsa no programa Santander Coders 2024, na trilha de Engenharia de Dados. Autodidata, comecei a estudar programação sozinha; sou bastante comprometida, curiosa, me interesso pelas áreas de dados e desenvolvimento. 
 
 ## ⚙ Habilidades (desenvolvidas e em desenvolvimento):
 
